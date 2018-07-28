@@ -1,0 +1,18 @@
+#logo {
+	text-transform: center;
+	padding: 5%;
+}
+
+div {
+	border: 2px solid red;
+}
+
+.col-lg-3 {
+	padding-top: 35%;
+	padding-bottom: 35%;
+}
+
+.col-lg-9 {
+	padding-top: 35%;
+	padding-bottom: 35%;
+}
